@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Trie
 |  |
@@ -23,4 +24,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0020-valid-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
