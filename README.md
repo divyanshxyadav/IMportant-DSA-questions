@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0856-score-of-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Trie
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Hash Table
