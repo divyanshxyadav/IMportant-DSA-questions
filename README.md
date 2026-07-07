@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Queue
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0142-linked-list-cycle-ii) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
