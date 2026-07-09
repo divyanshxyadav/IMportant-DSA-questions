@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0057-insert-interval](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0057-insert-interval) |
+| [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
 | ------- |
@@ -88,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0191-number-of-1-bits) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
+## Sorting
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
