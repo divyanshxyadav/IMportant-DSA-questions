@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0191-number-of-1-bits) |
 ## Greedy
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
