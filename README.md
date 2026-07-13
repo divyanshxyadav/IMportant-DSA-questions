@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
