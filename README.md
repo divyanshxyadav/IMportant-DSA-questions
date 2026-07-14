@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
+| [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 ## Queue
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
 ## Greedy
 |  |
@@ -112,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
