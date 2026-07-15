@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
