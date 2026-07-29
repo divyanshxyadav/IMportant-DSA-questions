@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
