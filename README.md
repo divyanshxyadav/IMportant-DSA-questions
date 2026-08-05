@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## String
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
+| [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
