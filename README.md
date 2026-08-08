@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0875-koko-eating-bananas) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
