@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
 | [2643-row-with-maximum-ones](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
