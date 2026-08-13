@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
