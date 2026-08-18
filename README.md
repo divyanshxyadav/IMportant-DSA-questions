@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
 | [0741-cherry-pickup](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0741-cherry-pickup) |
+| [0860-lemonade-change](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
