@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2643-row-with-maximum-ones](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2643-row-with-maximum-ones) |
 ## String
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -243,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0062-unique-paths) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 <!---LeetCode Topics End-->
