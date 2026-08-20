@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0045-jump-game-ii) |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0860-lemonade-change) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0120-triangle) |
