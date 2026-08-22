@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0120-triangle) |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1463-cherry-pickup-ii) |
@@ -255,4 +258,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
