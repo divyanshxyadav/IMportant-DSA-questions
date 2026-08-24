@@ -17,7 +17,6 @@ int diameter=0;
 solve(root,diameter);
 return diameter;
     }
-    private:
     int solve(TreeNode* root,int &diameter){
      if(root==NULL)return 0;
         int lh=solve(root->left,diameter);
