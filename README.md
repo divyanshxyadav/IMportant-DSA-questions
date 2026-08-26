@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0110-balanced-binary-tree) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0543-diameter-of-binary-tree) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0110-balanced-binary-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## DP on Trees
