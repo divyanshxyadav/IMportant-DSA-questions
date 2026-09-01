@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0171-excel-sheet-column-number) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2236-root-equals-sum-of-children) |
 ## Sliding Window
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -316,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
