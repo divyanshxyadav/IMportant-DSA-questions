@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1463-cherry-pickup-ii) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0994-rotting-oranges) |
