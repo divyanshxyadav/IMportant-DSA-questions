@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1463-cherry-pickup-ii) |
 | [2643-row-with-maximum-ones](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
