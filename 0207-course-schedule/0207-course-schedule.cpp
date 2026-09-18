@@ -24,7 +24,6 @@ for(auto it:adj[node]){
 }
 }
 indegree.clear();
-adj.clear();
 if(cnt==numCourses)
 return true;
 else return false;
