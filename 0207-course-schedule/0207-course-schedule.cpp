@@ -6,9 +6,7 @@ public:
 
         for(auto it:prerequisites){
             indegree[it[1]]++;
-        }
-        for(auto it:prerequisites){
-           adj[it[0]].push_back(it[1]);
+             adj[it[0]].push_back(it[1]);
         }
         queue<int>q;
        for(int i=0;i<numCourses;i++){
@@ -25,6 +23,7 @@ for(auto it:adj[node]){
     if(indegree[it]==0)q.push(it);
 }
 }
+indegree.clear();
 if(cnt==numCourses)
 return true;
 else return false;
