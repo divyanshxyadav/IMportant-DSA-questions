@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0127-word-ladder) |
 | [0171-excel-sheet-column-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0171-excel-sheet-column-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0127-word-ladder) |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0127-word-ladder](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0207-course-schedule) |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
