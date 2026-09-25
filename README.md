@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0741-cherry-pickup) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1463-cherry-pickup-ii) |
 ## Memoization
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 ## Knapsack Problem
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
@@ -420,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0802-find-eventual-safe-states) |
 ## Recursion
 |  |
@@ -455,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0127-word-ladder) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
