@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1463-cherry-pickup-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1463-cherry-pickup-ii) |
 | [2643-row-with-maximum-ones](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## DP on Trees
 |  |
 | ------- |
