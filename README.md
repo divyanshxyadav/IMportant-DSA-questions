@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/3024-type-of-triangle) |
 ## String
 |  |
 | ------- |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1922-count-good-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3024-type-of-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/3024-type-of-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
