@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0741-cherry-pickup) |
 | [0860-lemonade-change](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0860-lemonade-change) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
+| [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 ## Queue
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
@@ -379,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -425,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1319-number-of-operations-to-make-network-connected) |
