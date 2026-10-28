@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1669-merge-in-between-linked-lists) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1922-count-good-numbers) |
 ## Graph Coloring
