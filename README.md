@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1669-merge-in-between-linked-lists) |
 ## Math
 |  |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1922-count-good-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
