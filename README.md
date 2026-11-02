@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1922-count-good-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
