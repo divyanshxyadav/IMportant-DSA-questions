@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1922-count-good-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2235-add-two-integers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/3024-type-of-triangle) |
