@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0142-linked-list-cycle-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0191-number-of-1-bits) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0023-merge-k-sorted-lists) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 ## Knapsack Problem
@@ -545,4 +548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
