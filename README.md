@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0733-flood-fill) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 | [0709-to-lower-case](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0856-score-of-parentheses) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0575-distribute-candies) |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 ## Queue
 |  |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -279,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0049-group-anagrams) |
 | [0268-missing-number](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0721-accounts-merge) |
 | [1552-magnetic-force-between-two-balls](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1710-maximum-units-on-a-truck) |
@@ -389,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0023-merge-k-sorted-lists) |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1834-single-threaded-cpu](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/1834-single-threaded-cpu) |
 ## Knapsack Problem
@@ -556,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/divyanshxyadav/IMportant-DSA-questions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
